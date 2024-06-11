@@ -1,9 +1,0 @@
-{
-  "crons": [
-    {
-      "path": "/",
-      "schedule": "index.html"
-    }
-    
-  ]
-}
